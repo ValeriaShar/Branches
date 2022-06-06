@@ -1,0 +1,8 @@
+1  IDBug
+2  Summary
+3  Project
+4  Severity
+5  Priority
+6  Status
+7  ActualResult
+8  ExpectedResult
